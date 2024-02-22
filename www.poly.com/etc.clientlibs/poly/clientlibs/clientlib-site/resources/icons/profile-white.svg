@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>ICON / PROFILE</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ICON-/-PROFILE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(4.000000, 2.000000)" id="Path" stroke="white" stroke-width="2">
+            <path d="M8,0 C10.2162162,0 12,1.78378378 12,4 C12,6.21621622 10.2162162,8 8,8 C5.78378378,8 4,6.21621622 4,4 C4,1.78378378 5.78378378,0 8,0 Z"></path>
+            <path d="M8,11 C12.4137931,11 16,14.2298137 16,18.2049689 C16,18.5031056 16,18.7515528 15.9448276,19 L0.0551724138,19 C0,18.7515528 0,18.5031056 0,18.2049689 C0,14.2298137 3.5862069,11 8,11 Z"></path>
+        </g>
+    </g>
+</svg>

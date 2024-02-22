@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTTrack Local Index</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    .loading {
+      width: 80px;
+      height: 80px;
+      border: 8px solid #f3f3f3;
+      border-radius: 50%;
+      border-top: 8px solid #3498db;
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+  <div class="loading"></div>
+  <script>
+    // Replace this with your actual loading logic
+    setTimeout(() => {
+      // Redirect to actual content here
+      location.href = "www.poly.com/mx/es.html";
+    }, 2000); // Simulate loading for 2 seconds
+  </script>
+</body>
+</html>

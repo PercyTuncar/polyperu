@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="41px" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>SUPPORT@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SUPPORT@2x" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#000000" stroke-width="2" cx="20.5" cy="20.5" r="18.5"></circle>
+        <circle id="Oval" stroke="#000000" stroke-width="2" cx="20.5" cy="20.5" r="8.5"></circle>
+        <path d="M25.4441876,30.5459415 L34.6445259,30.5459415" id="Line-3" stroke="#020000" stroke-width="2" stroke-linecap="square" transform="translate(30.045942, 30.545942) rotate(-315.000000) translate(-30.045942, -30.545942) "></path>
+        <path d="M10.9540585,25.9441876 L10.9540585,35.1445259" id="Line" stroke="#020000" stroke-width="2" stroke-linecap="square" transform="translate(10.954058, 30.545942) rotate(-315.000000) translate(-10.954058, -30.545942) "></path>
+        <path d="M5.89355622,11.1005051 L15.702259,11.1005051" id="Line-3" stroke="#020000" stroke-width="2" stroke-linecap="square" transform="translate(10.600505, 11.100505) rotate(-315.000000) translate(-10.600505, -11.100505) "></path>
+        <path d="M30.0459415,6.24710961 L30.0459415,16.0558124" id="Line" stroke="#020000" stroke-width="2" stroke-linecap="square" transform="translate(30.045942, 11.454058) rotate(-315.000000) translate(-30.045942, -11.454058) "></path>
+    </g>
+</svg>
